@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Mirza hasnain.
 - 👀 I’m interested in Coding.
-- 🌱 I’m currently learning PHP.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning PYTHON.
 - 📫 How to reach me welcomehasnain786@gmail.com
 
 <!---
