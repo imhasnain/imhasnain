@@ -2,9 +2,7 @@
 
 > **Data Science Enthusiast & Aspiring Computer Vision Engineer**
 
-🔭 I’m currently working on **Advanced Data Science Projects** 🌱 I’m mastering **Computer Vision & Deep Learning** 💬 Ask me about **Python, Django, or ML Pipelines** 📫 Reach me at: [mirzaisback123@gmail.com](mailto:mirzaisback123@gmail.com)  
-📄 [View My Resume](https://drive.google.com/file/d/1HbLlBiSAi639LJWNRDcgHdMYNcnWJzWn/view?usp=sharing)
-
+🔭 I’m currently working on **Ai Projects** 🌱 I’m mastering **Computer Vision & Deep Learning** 
 ---
 
 ### 🌐 Socials:
